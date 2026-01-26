@@ -1,0 +1,4 @@
+# 34A. Final written decision
+(1) A board of inquiry shall render a final written decision respecting a complaint within six months of the conclusion of the hearing.
+(2) Where the board of inquiry has not rendered a final written decision within six months of the conclusion of the hearing respecting the complaint, the board shall immediately advise the Chief Judge of the Provincial Court of the reasons for the delay and indicate when a final decision will be rendered.
+(3) Where the board of inquiry has not rendered a final written decision within the time indicated in subsection (2), the Chief Judge of the Provincial Court may fix a time within which the board of inquiry shall render the final written decision or may revoke the appointment of the board of inquiry and appoint a new board of inquiry.
