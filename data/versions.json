@@ -1,0 +1,47 @@
+{
+ "country": "CA-NS",
+ "acts": [
+  {
+   "slug": "interpretation-act",
+   "short": "Interpretation Act",
+   "title": "Interpretation Act (Chapter 235)",
+   "url": "https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/interpretation.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260418030528id_/https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/interpretation.htm",
+     "sha256": "f02003ef7a6b7a4d143453fedd14b7ec400df7bd84a5a477f9cb89732a24982e"
+    }
+   ]
+  },
+  {
+   "slug": "human-rights-act",
+   "short": "Human Rights Act",
+   "title": "Human Rights Act (Chapter 214)",
+   "url": "https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/human%20rights.htm",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260418025817id_/https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/human%20rights.htm",
+     "sha256": "a5865fd8c884518e1be1b0bbde4fc71f48d71c15cc28e7777332ef1a3711fbf8"
+    }
+   ]
+  },
+  {
+   "slug": "limitation-of-actions-act",
+   "short": "Limitation of Actions Act",
+   "title": "Limitation of Actions Act (Chapter 35)",
+   "url": "https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/limitation%20of%20actions.htm",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260418031517id_/https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/limitation%20of%20actions.htm",
+     "sha256": "5abcf8fedb18eee01e7008e74271c8185665a63ec0043e70b487fb66b37aca30"
+    }
+   ]
+  }
+ ]
+}

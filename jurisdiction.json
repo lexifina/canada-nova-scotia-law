@@ -1,0 +1,9 @@
+{
+  "path": "ca-ns",
+  "code": "CA-NS",
+  "name": "Nova Scotia",
+  "level": "province",
+  "repo": "https://github.com/lexifina/canada-nova-scotia-law",
+  "build": "built",
+  "register_date": "2026-10-29"
+}
