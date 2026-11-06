@@ -1,5 +1,7 @@
 # Nova Scotia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Nova Scotia, Canada, which global-law reads at `canada/nova-scotia/acts/`.
+
 The law of Nova Scotia (CA-NS) as a git history: one file per provision, one commit per law on the day it took effect, and the law that made the change as the commit author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 **First build, deliberately small.** Language: English.
